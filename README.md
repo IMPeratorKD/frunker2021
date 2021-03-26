@@ -10,3 +10,5 @@ You can move the main rect(you) with "w", "a", "s", "d". There are also two opti
 At the beginning of the match you have 5 lifes. If a enemy touch you, you loose a life and restart the level. With 0 lives you loose the game. Sometimes there is a bonus(ellipse).
 Bonus can be earn by you or destroyed by an enemy. Bonus gives you +1 life. 
 With tkinter menu you can enter your name and change the color scheme.
+
+For a .exe file of the game you can write me a e-mail. (imperatorGH@web.de)
